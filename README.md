@@ -1,4 +1,6 @@
-## angular2-seed
+## angular2-seed 
+
+Just for a Check
 
 A simple starter project demonstrating the basic concepts of Angular 2.
 
